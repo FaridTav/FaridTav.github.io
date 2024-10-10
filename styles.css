@@ -13,3 +13,19 @@ body {
         color: #C7DDEF;
         
     }
+    /*.project img{
+        width: 300px;
+        height: 300px;
+        margin: 10px;
+        border: 2px solid r#C7DDEF; /* choose a color 
+        display: block;
+        margin: auto;
+        } */
+        a { /* change the appearance of ALL links */
+            text-decoration: none;
+            color: whitesmoke;
+            }
+            .project p { /* change the appearance of paragraph tags inside .project divs */
+            text-align: center;
+            margin: 15px;
+            }
